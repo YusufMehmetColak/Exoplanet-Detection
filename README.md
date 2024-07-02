@@ -21,7 +21,18 @@ The dataset used in this project is provided by NASA's Kepler Space Telescope an
 
 - **Source**: [Kaggle Exoplanet Exploration Dataset](https://www.kaggle.com/code/nageshsingh/exoplanet-exploration-using-ml)
 
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Acknowledgements
+
+The Kaggle community for providing the dataset and inspiration.
+NASA's Kepler Space Telescope for collecting the data.
+You can install the required packages using pip:
+
 ## Installation
+
 To run the code in this repository, you will need Python and the following packages:
 - pandas
 - numpy
@@ -31,16 +42,5 @@ To run the code in this repository, you will need Python and the following packa
 - mlxtend
 -imblearn
 -warnings
-
-
-You can install the required packages using pip:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn mlxtend imblearn warnings
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-## Acknowledgements
-
-The Kaggle community for providing the dataset and inspiration.
-NASA's Kepler Space Telescope for collecting the data.
